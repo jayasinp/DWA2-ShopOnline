@@ -1,0 +1,46 @@
+<!-- Pravin Mark Jayasinghe -->
+<!-- 104182850 -->
+<!-- COS80021: Developing Web Applications -->
+<!-- Project 2 -->
+
+<!-- bidding.html allows users to bid on items in auction -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="COS80021 - Assignment 2" />
+    <meta name="author" content="Sam Sam Lei (103196737)" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />
+    <title>Bidding Page</title>
+    <script src="bidding.js"></script>
+</head>
+
+<body onload="loadItems()" class="bg-light">
+
+    <div class="container my-5">
+        <h1 class="text-center text-danger mb-5">ShopOnline</h1>
+
+        <nav class="mb-5">
+            <ul class="nav justify-content-center">
+                <li class="nav-item"><a class="nav-link text-danger" href="listing.html">Listing</a></li>
+                <li class="nav-item"><a class="nav-link active text-danger" href="bidding.html">Bidding</a></li>
+                <li class="nav-item"><a class="nav-link text-danger" href="maintenance.html">Maintenance</a></li>
+                <li class="nav-item"><a class="nav-link text-danger" href="logout.html">Log Out</a></li>
+            </ul>
+        </nav>
+
+        <p class="text-center">Browse the items up for auction below. Ready to make a move? Click the 'Place Bid' button!</p>
+        <p class="text-danger text-center">Reminder: Every 10 seconds, we refresh the remaining time and bid prices for items.</p>
+
+        <div id="bidResult" class="mb-4"></div>
+
+        <div id="itemsForAuction"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+
+</html>

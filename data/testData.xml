@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<customers>
+  <customer>
+    <name>Mark </name>
+    <number>0773166856</number>
+    <email>pj@pj.com</email>
+    <password>123</password>
+  </customer>
+  <customer>
+    <name>Kevin</name>
+    <number>111111111</number>
+    <email>kevin@kevin</email>
+    <password>123</password>
+  </customer>
+</customers>

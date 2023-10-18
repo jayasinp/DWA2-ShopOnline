@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Listings>
+    <ListedItem>
+        <ItemID>1000007</ItemID>
+        <ItemName>Samsung Galaxy S23</ItemName>
+        <Category>Phone</Category>
+        <Description>Brand new, sealed in box</Description>
+        <StartPrice>200.00</StartPrice>
+        <ReservePrice>400.00</ReservePrice>
+        <BuyItNowPrice>450.00</BuyItNowPrice>
+        <Duration>2023-10-10 14:50:00</Duration>
+        <CurrentDate>2023-10-03</CurrentDate>
+        <CurrentTime>00:44:50</CurrentTime>
+        <SellerID>1004</SellerID>
+        <Status>in progress</Status>
+        <BidderID>1002</BidderID>
+        <BidPrice>350.00</BidPrice>
+    </ListedItem>
+    <ListedItem>
+        <ItemID>1000008</ItemID>
+        <ItemName>Nikon D850 DSLR</ItemName>
+        <Category>Camera</Category>
+        <Description>Lightly used, with original packaging</Description>
+        <StartPrice>800.00</StartPrice>
+        <ReservePrice>1200.00</ReservePrice>
+        <BuyItNowPrice>1300.00</BuyItNowPrice>
+        <Duration>2023-10-12 15:30:00</Duration>
+        <CurrentDate>2023-10-03</CurrentDate>
+        <CurrentTime>00:44:50</CurrentTime>
+        <SellerID>1006</SellerID>
+        <Status>in progress</Status>
+        <BidderID>1001</BidderID>
+        <BidPrice>1100.00</BidPrice>
+    </ListedItem>
+    <ListedItem>
+        <ItemID>1000009</ItemID>
+        <ItemName>Designer Sofa Set</ItemName>
+        <Category>Furniture</Category>
+        <Description>Modern design, comfortable seating</Description>
+        <StartPrice>0.00</StartPrice>
+        <ReservePrice>600.00</ReservePrice>
+        <BuyItNowPrice>750.00</BuyItNowPrice>
+        <Duration>2023-10-08 12:30:00</Duration>
+        <CurrentDate>2023-10-03</CurrentDate>
+        <CurrentTime>00:44:50</CurrentTime>
+        <SellerID>1007</SellerID>
+        <Status>in progress</Status>
+        <BidderID>1002</BidderID>
+        <BidPrice>500.00</BidPrice>
+    </ListedItem>
+    <ListedItem>
+        <ItemID>1000010</ItemID>
+        <ItemName>Toyota Corolla</ItemName>
+        <Category>Car</Category>
+        <Description>2022 model, excellent condition</Description>
+        <StartPrice>15000.00</StartPrice>
+        <ReservePrice>20000.00</ReservePrice>
+        <BuyItNowPrice>22000.00</BuyItNowPrice>
+        <Duration>2023-10-10 12:30:00</Duration>
+        <CurrentDate>2023-10-03</CurrentDate>
+        <CurrentTime>00:44:50</CurrentTime>
+        <SellerID>1008</SellerID>
+        <Status>in progress</Status>
+        <BidderID>1003</BidderID>
+        <BidPrice>19000.00</BidPrice>
+    </ListedItem>
+    <ListedItem>
+        <ItemID>1000011</ItemID>
+        <ItemName>DJI Mavic Air 2</ItemName>
+        <Category>Drone</Category>
+        <Description>Latest model with 8K video recording</Description>
+        <StartPrice>500.00</StartPrice>
+        <ReservePrice>700.00</ReservePrice>
+        <BuyItNowPrice>800.00</BuyItNowPrice>
+        <Duration>2023-10-15 14:30:00</Duration>
+        <CurrentDate>2023-10-03</CurrentDate>
+        <CurrentTime>00:44:50</CurrentTime>
+        <SellerID>1009</SellerID>
+        <Status>in progress</Status>
+        <BidderID>1003</BidderID>
+        <BidPrice>650.00</BidPrice>
+    </ListedItem>
+    <ListedItem>
+        <ItemID>1000012</ItemID>
+        <ItemName>Luxury Watch</ItemName>
+        <Category>Jewelry</Category>
+        <Description>Brand new, diamond-studded</Description>
+        <StartPrice>0.00</StartPrice>
+        <ReservePrice>2500.00</ReservePrice>
+        <BuyItNowPrice>2800.00</BuyItNowPrice>
+        <Duration>2023-10-05 11:30:00</Duration>
+        <CurrentDate>2023-10-03</CurrentDate>
+        <CurrentTime>00:44:50</CurrentTime>
+        <SellerID>1010</SellerID>
+        <Status>in progress</Status>
+        <BidderID>1001</BidderID>
+        <BidPrice>2300.00</BidPrice>
+    </ListedItem>
+</Listings>

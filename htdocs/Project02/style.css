@@ -1,0 +1,126 @@
+/* Incorporate the Jost font */
+* {
+    font-family: 'Jost', sans-serif;
+    color: black;
+    margin-left: 8px;
+    margin-right: 8px;	
+}
+
+body, html {
+    background-color: rgb(237, 240, 241);
+    line-height: 20px;
+    text-align: center ;
+}
+
+h1, h2, h3 {
+    color: rgb(235, 46, 46); /* Danger color */
+}
+
+#header_menu {
+    text-align: left;
+}
+
+/* Use Bootstrap's .btn class for styling of buttons */
+button, .btn {
+    background-color: rgb(235, 46, 46); /* Danger color */
+    color: white;
+    font-size: 0.8em;
+}
+
+#submit:hover, #reset:hover, .btn:hover {
+    background-color: darkred; /* Darker shade of danger */
+}
+
+/* Pseudo classes */
+a:hover {
+    background-color: lightcoral; /* Lighter shade of danger */
+    border-color: darkred; /* Darker shade of danger */
+}
+
+.bg {
+    background-image: url("Camels.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.content {
+    background-color: rgba(0,0,0, 0.0);
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 86px;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 100%;
+    text-align: center;			
+}
+
+.small_display {
+    display: none;
+}
+
+/* Use Bootstrap's table classes for styling of tables */
+table {
+    margin-top: 15px;
+    border: 1px solid rgb(235, 46, 46); /* Danger color */
+}
+
+th {
+    background-color: rgb(235, 46, 46); /* Danger color */
+    color: white;
+    text-align: right;  
+    padding-right: 8px;
+}
+
+td {
+    background-color: rgba(223, 229, 231, 0.945);
+}
+
+td:nth-child(2), td:last-child {
+    text-align: left;
+}
+
+header {
+    border: 1px inset darkred; /* Darker shade of danger */
+    border-radius: 14px;
+    padding: 1em;
+    background-color: rgb(235, 46, 46); /* Danger color */
+}
+
+legend {
+    color: rgb(235, 46, 46); /* Danger color */
+}
+
+fieldset {
+    border: 1px solid rgb(235, 46, 46); /* Danger color */
+    width: 750px;
+    margin: auto;
+    text-align: left;
+}
+
+.redText, .confirmed, .failed {
+    font-style: italic;
+    font-size: 102%;
+}
+
+.confirmed {
+    color: rgb(35, 49, 236);
+}
+
+.failed {
+    color: rgb(235, 46, 46); /* Danger color */
+}
+
+.button_result {
+    background-color: rgb(235, 46, 46); /* Danger color */
+    border: none;
+    border-radius: 14px;
+    color: white;
+    font-size: 1.0em;
+    font-weight: bold;
+    padding: 8px 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}

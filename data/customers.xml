@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Customers>
+  <Customer>
+    <Firstname>Pravin</Firstname>
+    <Surname>Jayasinghe</Surname>
+    <Email>pravin@pravin.com</Email>
+    <Password>123</Password>
+    <CustomerID>1001</CustomerID>
+  </Customer>
+  <Customer>
+    <Firstname>Kevin</Firstname>
+    <Surname>Wijaya</Surname>
+    <Email>kevin@kevin.com</Email>
+    <Password>123</Password>
+    <CustomerID>1002</CustomerID>
+  </Customer>
+  <Customer>
+    <Firstname>Wei</Firstname>
+    <Surname>Lei</Surname>
+    <Email>wei@wei.com</Email>
+    <Password>123</Password>
+    <CustomerID>1003</CustomerID>
+  </Customer>
+  <Customer>
+    <Firstname>Johnny</Firstname>
+    <Surname>Satong</Surname>
+    <Email>johnny@johnny.com</Email>
+    <Password>123</Password>
+    <CustomerID>1004</CustomerID>
+  </Customer>
+</Customers>
